@@ -1,0 +1,48 @@
+head:
+  title: "Hardeep Narang's Personal Website"
+  description: "This is Hardeep Narang's personal website. Hardeep is a tech entrepreneur with a background in software engineering."
+
+showcase:
+  enable: true
+  # title: "Hello, I’m Hardeep."
+  subtitle: "Co-Founder Vexio"
+  description: >
+    I've built backend systems and platforms of all shapes and sizes, monoliths, microservices, decentralized. I believe the mark of a great engineer is less about how impressive their code is, but how impressive their code be adapted, adopted, and the products the build be sold.
+  image:
+    x: "images/showcase/showcase.png"
+    _2x: "images/showcase/showcase@2x.png"
+  imageMobile:
+    x: "images/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:hardeepnarang10@gmail.com?subject=Mail from Personal Website"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/hardeep10"
+
+    - icon: "github"
+      URL: "https://github.com/hardeepnarang10"
+
+    - icon: "twitter"
+      URL: "https://x.com/hardeepnarang10"
+
+experience:
+  enable: false
+  title: "Experience"
+  description: >
+    This is where you can highlight a bit over your experience. Years of total experience, specialization, etc.
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/adrianmoreno/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Resume"
+    URL: "#"
+  button3:
+    icon: "icon-arrow-right"
+    btnText: "View All"
+    URL: "/experience"
