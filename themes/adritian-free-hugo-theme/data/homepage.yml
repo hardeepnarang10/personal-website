@@ -4,10 +4,12 @@ head:
 
 showcase:
   enable: true
-  # title: "Hello, I’m Hardeep."
+  title: "Hello, I’m Hardeep."
   subtitle: "Co-Founder Vexio"
   description: >
-    I've built backend systems and platforms of all shapes and sizes, monoliths, microservices, decentralized. I believe the mark of a great engineer is less about how impressive their code is, but how impressive their code be adapted, adopted, and the products the build be sold.
+    I've engineered ultra-low latency distributed systems, infrastructures, and orchestrators for AI/ML workloads at scale. At present I'm working on building Vexio, a platform that enables shopping online through natural conversations.
+    <br>
+    Checkout my <a target='_blank' href='https://www.github.com/hardeepnarang10'>Github</a> OR <a target='_blank' href='mailto:hardeepnarang10@gmail.com?subject=Mail from Personal Website'>contact me</a>.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
