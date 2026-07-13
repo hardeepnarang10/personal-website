@@ -28,6 +28,7 @@ theme = "adritian-free-hugo-theme"
 
 
 [params]
+  description = "Hardeep Narang — personal website and portfolio."
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
